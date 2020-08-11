@@ -1,0 +1,25 @@
+meter::-webkit-meter-optimum-value {
+  background-color: #4D6D9A;
+}
+a.projects {
+  background-color: #EDB5BF;
+  color: white;
+}
+
+.section {
+  background-color: white;
+  width: 90%;
+  border: solid 2px black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.section .content {
+  padding: 3%;
+  padding-top: 1%;
+}
+
+.no_space {
+white-space: pre;
+}
